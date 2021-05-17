@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Алексей Иванченко](https://up.htmlacademy.ru/htmlcss/31/user/1176737).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
 ---
 
